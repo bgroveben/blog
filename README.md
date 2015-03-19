@@ -9,3 +9,5 @@ This is the first iteration. I have generated scaffolds for the posts and commen
 2. I have placed config/secrets.yml in the .gitignore file.
 
 3. I have stored the code on Github as well as Bitbucket.
+
+Module 4
