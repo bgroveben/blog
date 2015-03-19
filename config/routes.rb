@@ -1,7 +1,9 @@
 Rails.application.routes.draw do
   resources :comments
 
-  resources :posts
+  resources :posts do 
+    resources :comments  #!# associate comments with their respective posts
+  end
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
