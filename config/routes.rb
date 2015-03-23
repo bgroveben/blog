@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
-  resources :comments
+  # resources :comments  #!# only allow comments to be seen wrt their posts 
 
-  resources :posts do 
+  resources :posts do
     resources :comments  #!# associate comments with their respective posts
   end
 
