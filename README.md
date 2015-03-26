@@ -10,4 +10,8 @@ This is the first iteration. I have generated scaffolds for the posts and commen
 
 3. I have stored the code on Github as well as Bitbucket.
 
-Module 6
+Module 6 Completed
+
+All quizzes and programming assignments 1 and 2 are finished.
+
+Waiting for the grading program to be updated before I submit assignments 3 (master branch) and 4 (iteration5) again. Push master for assignment 3 first, then merge iteration5 to master and push for assignment 4.
